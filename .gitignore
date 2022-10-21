@@ -1,0 +1,11 @@
+configs/*.js
+dist
+history
+logs/*.log
+node_modules
+sessions/**/*.json
+ssl/*.pem
+.env
+MODIFY-LIB.md
+package-lock.json
+test.json
